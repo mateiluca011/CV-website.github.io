@@ -27,11 +27,11 @@ const projects = [
     Githublink: "https://mateiluca011.github.io/SolarSystem/",
   },
   {
-    title: "Tutorial Rest API (In Developing)",
-    cardImage: "assets/images/designs/rest_tutorial.png",
+    title: "Game Website",
+    cardImage: "assets/images/designs/Game.png",
     description: "Tutorial Rest API Website",
-    Previewlink: "",
-    Githublink: "https://github.com/DaveSimoes/LightandDarktheme",
+    Previewlink: "https://mateiluca011.github.io/GameWebsite/",
+    Githublink: "https://mateiluca011.github.io/GameWebsite/",
   },
   {
     title: "BMI Calculator",
