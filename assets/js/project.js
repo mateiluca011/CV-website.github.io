@@ -34,11 +34,11 @@ const projects = [
     Githublink: "https://mateiluca011.github.io/GameWebsite/",
   },
   {
-    title: "BMI Calculator",
-    cardImage: "assets/images/designs/bmicalculator.png",
+    title: "Travel Website",
+    cardImage: "assets/images/designs/Travel.png",
     description: "BMI Calculator app. Developed built using Flutter",
-    Previewlink: "",
-    Githublink: "https://github.com/DaveSimoes/MyFirstAppMobile",
+    Previewlink: "https://mateiluca011.github.io/TravelWebsite/",
+    Githublink: "https://mateiluca011.github.io/TravelWebsite/",
   },
   {
     title: "Responsive Resume Website",
