@@ -402,7 +402,7 @@ header p {
 
 .timeline-item:nth-child(even) .timeline-content {
   float: right;
-  padding: 40px 30px 10px 30px;
+  padding: 30px 30px 10px 30px;
 }
  .timeline-item:nth-child(even) .timeline-content .alignment {
   position:absolute;
@@ -425,7 +425,7 @@ header p {
   border-style: solid;
   width: 0;
   height: 0;
-  top: 30px;
+  top: 10px;
   left: -15px;
   border-width: 10px 15px 10px 0;
   border-color: transparent #f5f5f5 transparent transparent;
@@ -440,8 +440,8 @@ header p {
 /* This will give the cards to their respective sides */
 .timeline-content {
   position: relative;
-  width: 45%;
-  padding: 10px 30px;
+  width: 47%;
+  padding: 40px 30px 20px 30px;
   border-radius: 4px;
 /*   background: #f5f5f5;
   color: black; */
@@ -497,7 +497,7 @@ header p {
 }
 
 .timeline-card {
-  padding: 0 !important;
+  padding: 10 !important;
 }
 
 .timeline-card p {
@@ -544,8 +544,8 @@ blockquote {
   color: #FFFFFF;
   padding: 10px;
   position: absolute;
-  top: 0;
-  right: 0;
+  top: -10px;
+  right: 15px;
 }
 
 .alignment{
