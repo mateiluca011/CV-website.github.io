@@ -9,8 +9,8 @@ const projects = [
     title: "Pizzetto Restaurant WebSite",
     cardImage: "assets/images/designs/Pizzetto.png",
     description: "Nhaac Restaurant WebSite.",
-    Previewlink: "pizzetto.free.nf",
-    Githublink: "pizzetto.free.nf",
+    Previewlink: "http://pizzetto.free.nf/",
+    Githublink: "http://pizzetto.free.nf/",
   },
   {
     title: "MovieFlix Website",
