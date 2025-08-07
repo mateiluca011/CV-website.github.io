@@ -40,13 +40,6 @@ const projects = [
     Previewlink: "https://mateiluca011.github.io/TravelWebsite/",
     Githublink: "https://mateiluca011.github.io/TravelWebsite/",
   },
-  {
-    title: "Responsive Resume Website",
-    cardImage: "assets/images/designs/Resume_app.png",
-    description: "Poker game built using typescript.",
-    Previewlink: "https://davidsimoes-resume.netlify.app/",
-    Githublink: "",
-  },
   // … restul proiectelor …
 ];
 

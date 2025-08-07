@@ -4,27 +4,27 @@ AOS.init();
 
 const moocs = document.querySelector(".moocs");
 const moocscards = [
-  {
-    title: "ITIL® Foundation Certificate in IT Service Management",
-  /*  cardImage: "assets/images/designs/itil_22", */
-    cardImage: "assets/images/designs/itil_22.png",
-    link: "https://https://www.peoplecert.org/certifications-and-memberships",
-  },
-  {
-    title: "Introduction to Cloud Computing",
-    cardImage: "assets/images/designs/coursera.png",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
-  {
-    title: "HCL Certified Domino Developer Application",
-    cardImage: "assets/images/designs/hcl_domino.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Linkedin Skill Assessment (JavaScript)",
-    cardImage: "assets/images/designs/javascript.png",
-    moocLink: "https://www.linkedin.com/skill-assessments/JavaScript/report/",
-  },
+//   {
+//     title: "ITIL® Foundation Certificate in IT Service Management",
+//   /*  cardImage: "assets/images/designs/itil_22", */
+//     cardImage: "assets/images/designs/itil_22.png",
+//     link: "https://https://www.peoplecert.org/certifications-and-memberships",
+//   },
+//   {
+//     title: "Introduction to Cloud Computing",
+//     cardImage: "assets/images/designs/coursera.png",
+//     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+//   },
+//   {
+//     title: "HCL Certified Domino Developer Application",
+//     cardImage: "assets/images/designs/hcl_domino.png",
+//     moocLink: "https://www.coursera.org/learn/machine-learning",
+//   },
+//   {
+//     title: "Linkedin Skill Assessment (JavaScript)",
+//     cardImage: "assets/images/designs/javascript.png",
+//     moocLink: "https://www.linkedin.com/skill-assessments/JavaScript/report/",
+//   },
 
  /* {
     title: "Introduction to CSS 3",
