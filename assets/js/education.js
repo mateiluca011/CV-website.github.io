@@ -15,6 +15,11 @@ const moocscards = [
     cardImage: "assets/images/designs/sql_basic_certificate_page-0001.jpg",
     moocLink: "https://www.hackerrank.com/certificates/iframe/8cf91d28fda0",
   },
+   {
+    title: "HackerRank certification test for Java(Basic)",
+    cardImage: "assets/images/designs/java_basic_certificate_page-0001.jpg",
+    moocLink: "https://www.hackerrank.com/certificates/iframe/73aaca618e19",
+  },
   {
     title: "Cambridge Entry Level Certificate in ESOL International (Entry 3)(Preliminary)",
     cardImage: "assets/images/designs/Chambridge.jpg",
@@ -27,11 +32,6 @@ const moocscards = [
     title: "C++ Institute Authorized Academy Program",
     cardImage: "assets/images/designs/C++'.jpg",
   },
-  // {
-  //   title: "XML-AJAX",
-  //   cardImage: "assets/images/education-page/udemy.svg",
-  //   moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  // },
   // {
   //   title: "Data Structures & Algorithms",
   //   cardImage: "assets/images/education-page/udacity.svg",
