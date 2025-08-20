@@ -8,28 +8,24 @@ const moocscards = [
   {
     title: "HackerRank certification test for SQL(Intermediate)",
     cardImage: "assets/images/designs/sql_intermediate certificate_page-0001.jpg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    moocLink: "https://www.hackerrank.com/certificates/iframe/4a9e289eb7c2",
   },
   {
     title: "HackerRank certification test for SQL(Basic)",
     cardImage: "assets/images/designs/sql_basic certificate_page-0001.jpg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://www.hackerrank.com/certificates/iframe/8cf91d28fda0",
   },
   {
     title: "Cambridge Entry Level Certificate in ESOL International (Entry 3)(Preliminary)",
     cardImage: "assets/images/designs/Chambridge.jpg",
-    moocLink: "https://www.edx.org/learn/reactjs",
   },
   {
     title: "C++ Institute Authorized Academy Program",
     cardImage: "assets/images/designs/C++.jpg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
   },
   {
     title: "C++ Institute Authorized Academy Program",
     cardImage: "assets/images/designs/C++'.jpg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
   },
   // {
   //   title: "XML-AJAX",
