@@ -7,12 +7,12 @@ const moocscards = [
 
   {
     title: "HackerRank certification test for SQL(Intermediate)",
-    cardImage: "assets/images/designs/sql_intermediate certificate_page-0001.jpg",
+    cardImage: "assets/images/designs/sql_intermediate_certificate_page-0001.jpg",
     moocLink: "https://www.hackerrank.com/certificates/iframe/4a9e289eb7c2",
   },
   {
     title: "HackerRank certification test for SQL(Basic)",
-    cardImage: "assets/images/designs/sql_basic certificate_page-0001.jpg",
+    cardImage: "assets/images/designs/sql_basic_certificate_page-0001.jpg",
     moocLink: "https://www.hackerrank.com/certificates/iframe/8cf91d28fda0",
   },
   {
